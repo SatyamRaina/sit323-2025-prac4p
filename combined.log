@@ -1,0 +1,11 @@
+{"level":"info","message":"Operation add with n1=31, n2=3, result=34","service":"calculator-microservice"}
+{"level":"info","message":"Operation divide with n1=31, n2=3, result=10.333333333333334","service":"calculator-microservice"}
+{"level":"info","message":"Operation divide with n1=10, n2=5, result=2","service":"calculator-microservice"}
+{"level":"info","message":"Operation divide with n1=10, n2=5, result=2","service":"calculator-microservice"}
+{"level":"info","message":"Operation add with n1=10, n2=5, result=15","service":"calculator-microservice"}
+{"level":"error","message":"n1 is incorrectly defined","service":"calculator-microservice"}
+{"level":"error","message":"n1 is incorrectly defined","service":"calculator-microservice"}
+{"level":"error","message":"Invalid operation: addition","service":"calculator-microservice"}
+{"level":"info","message":"Operation add with n1=10, n2=5, result=15","service":"calculator-microservice"}
+{"level":"info","message":"Operation multiply with n1=5, n2=3, result=15","service":"calculator-microservice"}
+{"level":"info","message":"Operation subtract with n1=5, n2=3, result=2","service":"calculator-microservice"}
