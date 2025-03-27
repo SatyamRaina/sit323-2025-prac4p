@@ -102,7 +102,3 @@ Confirm port 3051 is not in use.
 
 Validate JSON format and operation names.
 
-📄 License
-
-This project is licensed under the MIT License.
-
